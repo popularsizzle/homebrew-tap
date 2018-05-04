@@ -16,7 +16,7 @@ class AwsProxy < Formula
 
       Alternatively set the AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY environment variables.
 
-      The following is an example IAM policy with the the minimum required permisions:
+      The following is an example IAM policy with the the minimum required permissions:
           {
               "Version": "2012-10-17",
               "Statement": [
